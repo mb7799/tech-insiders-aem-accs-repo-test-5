@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: "https://author-p225754-e2308865.adobeaemcloud.com/bin/franklin.delivery/mb7799/tech-insiders-aem-accs-repo-test-5/main"
+    type: "markup"
+    suffix: ".html"
+folders:
+  /products/: /products/default
